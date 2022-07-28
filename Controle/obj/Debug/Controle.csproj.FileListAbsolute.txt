@@ -1,0 +1,8 @@
+C:\Users\win10\source\repos\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\Controle\Controle\obj\Debug\Controle.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\source\repos\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Users\win10\source\repos\Controle\Controle\bin\Debug\Controle.exe
+C:\Users\win10\source\repos\Controle\Controle\bin\Debug\Controle.pdb
+C:\Users\win10\source\repos\Controle\Controle\obj\Debug\Controle.exe
+C:\Users\win10\source\repos\Controle\Controle\obj\Debug\Controle.pdb
