@@ -10,7 +10,9 @@ namespace Controle
     {
         static void Main(string[] args)
         {
+            //Label
             Inicio:
+
             Console.Write("Digite um numero: ");
             int escolha = int.Parse(Console.ReadLine());           
 
