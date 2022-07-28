@@ -10,13 +10,19 @@ namespace Controle
     {
         static void Main(string[] args)
         {
+            Inicio:
             Console.Write("Digite um numero: ");
             int escolha = int.Parse(Console.ReadLine());           
 
             switch(escolha)
-            {                
+            {
+                default:
+                    goto Inicio;
+                    break;
+
                 case 1:
                     Console.WriteLine("Voçê escolheu a opção 1");
+                    
                     break;
                 case 2:
                     Console.WriteLine("Voçê escolheu a opção 2");
@@ -26,11 +32,8 @@ namespace Controle
                     break;
                 case 4:
                     Console.WriteLine("Voçê escolheu a opção 4");
-                    break;
-
-                default:
-                    Console.WriteLine("Nenhuma das Opções foram escolhidas.");
-                    break;
+                    break;                
+                    goto case 1;
             }
 
             Console.ReadKey();
